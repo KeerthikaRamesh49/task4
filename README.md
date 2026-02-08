@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 4: MySQL Database Connection & Homepage Design - Complete Project Setup
 
 ## 🎯 Project Overview
@@ -329,3 +330,6 @@ You're now ready to expand the application with additional features!
 **Start with [TASK4_GUIDE.md](TASK4_GUIDE.md) for detailed instructions.**
 
 Good luck! 🚀
+=======
+# task4
+>>>>>>> 42c950dbba9b3a0886eabbdfbd09f7e6d38e01a7
